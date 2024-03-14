@@ -1,10 +1,12 @@
-import { useState } from "react";
 import "./App.css";
+import Header from "./components/Header/Header";
+import Blogs from "./components/Blogs/Blogs";
 
 function App() {
   return (
     <>
-      <p className="text-3xl font-bold">Hola Amigos!</p>
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   );
 }

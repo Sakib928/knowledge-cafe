@@ -1,0 +1,67 @@
+[
+    {
+        "id": "001",
+        "cover-image": "image1.jpg",
+        "author": "John Doe",
+        "post-date": "2024-03-14",
+        "title": "Exploring the Mysteries of the Universe",
+        "hashtags": [
+            "space",
+            "science",
+            "exploration"
+        ],
+        "reading-time": 10
+    },
+    {
+        "id": "002",
+        "cover-image": "image2.jpg",
+        "author": "Jane Smith",
+        "post-date": "2024-03-13",
+        "title": "The Art of Culinary Delights",
+        "hashtags": [
+            "food",
+            "cooking",
+            "recipes"
+        ],
+        "reading-time": 8
+    },
+    {
+        "id": "003",
+        "cover-image": "image3.jpg",
+        "author": "David Johnson",
+        "post-date": "2024-03-12",
+        "title": "Discovering Ancient Civilizations",
+        "hashtags": [
+            "history",
+            "archaeology",
+            "culture"
+        ],
+        "reading-time": 15
+    },
+    {
+        "id": "004",
+        "cover-image": "image4.jpg",
+        "author": "Emily Brown",
+        "post-date": "2024-03-11",
+        "title": "The Wonders of Nature",
+        "hashtags": [
+            "nature",
+            "wildlife",
+            "environment"
+        ],
+        "reading-time": 12
+    },
+    {
+        "id": "005",
+        "cover-image": "image5.jpg",
+        "author": "Michael Taylor",
+        "post-date": "2024-03-10",
+        "title": "Unraveling the Secrets of the Mind",
+        "hashtags": [
+            "psychology",
+            "brain",
+            "neuroscience"
+        ],
+        "reading-time": 20
+    }
+]
