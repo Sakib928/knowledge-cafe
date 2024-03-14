@@ -1,67 +1,55 @@
 [
     {
-        "id": "001",
-        "cover-image": "https://ibb.co/xm0g7h0",
-        "author": "John Doe",
-        "post-date": "2024-03-14",
-        "title": "Exploring the Mysteries of the Universe",
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
         "hashtags": [
-            "space",
-            "science",
-            "exploration"
-        ],
-        "reading-time": 10
+            "beginners",
+            "es6"
+        ]
     },
     {
-        "id": "002",
-        "cover-image": "https://ibb.co/xm0g7h0",
-        "author": "Jane Smith",
-        "post-date": "2024-03-13",
-        "title": "The Art of Culinary Delights",
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
         "hashtags": [
-            "food",
-            "cooking",
-            "recipes"
-        ],
-        "reading-time": 8
+            "javascript",
+            "coding",
+            "dev"
+        ]
     },
     {
-        "id": "003",
-        "cover-image": "https://ibb.co/xm0g7h0",
-        "author": "David Johnson",
-        "post-date": "2024-03-12",
-        "title": "Discovering Ancient Civilizations",
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
         "hashtags": [
-            "history",
-            "archaeology",
-            "culture"
-        ],
-        "reading-time": 15
+            "mid_level",
+            "react"
+        ]
     },
     {
-        "id": "004",
-        "cover-image": "https://ibb.co/xm0g7h0",
-        "author": "Emily Brown",
-        "post-date": "2024-03-11",
-        "title": "The Wonders of Nature",
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
         "hashtags": [
-            "nature",
-            "wildlife",
-            "environment"
-        ],
-        "reading-time": 12
-    },
-    {
-        "id": "005",
-        "cover-image": "https://ibb.co/xm0g7h0",
-        "author": "Michael Taylor",
-        "post-date": "2024-03-10",
-        "title": "Unraveling the Secrets of the Mind",
-        "hashtags": [
-            "psychology",
-            "brain",
-            "neuroscience"
-        ],
-        "reading-time": 20
+            "development",
+            "resources"
+        ]
     }
 ]
