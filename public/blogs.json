@@ -1,7 +1,7 @@
 [
     {
         "id": "001",
-        "cover-image": "image1.jpg",
+        "cover-image": "https://ibb.co/xm0g7h0",
         "author": "John Doe",
         "post-date": "2024-03-14",
         "title": "Exploring the Mysteries of the Universe",
@@ -14,7 +14,7 @@
     },
     {
         "id": "002",
-        "cover-image": "image2.jpg",
+        "cover-image": "https://ibb.co/xm0g7h0",
         "author": "Jane Smith",
         "post-date": "2024-03-13",
         "title": "The Art of Culinary Delights",
@@ -27,7 +27,7 @@
     },
     {
         "id": "003",
-        "cover-image": "image3.jpg",
+        "cover-image": "https://ibb.co/xm0g7h0",
         "author": "David Johnson",
         "post-date": "2024-03-12",
         "title": "Discovering Ancient Civilizations",
@@ -40,7 +40,7 @@
     },
     {
         "id": "004",
-        "cover-image": "image4.jpg",
+        "cover-image": "https://ibb.co/xm0g7h0",
         "author": "Emily Brown",
         "post-date": "2024-03-11",
         "title": "The Wonders of Nature",
@@ -53,7 +53,7 @@
     },
     {
         "id": "005",
-        "cover-image": "image5.jpg",
+        "cover-image": "https://ibb.co/xm0g7h0",
         "author": "Michael Taylor",
         "post-date": "2024-03-10",
         "title": "Unraveling the Secrets of the Mind",
